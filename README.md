@@ -11,5 +11,7 @@ I built the system with two arduino nano: one for the controller and one for the
 Mark realeased the code for the microAPRS modem, so you can either buy it or build it your self with an arduino nano AT328p.
 See schematic in repository.
 
+The two arduino are simply connected with a cross cable between the two phisical serial port: RX0 with TX1 and viceversa.
+
 The controller has no need for real time clock: it uses Countdown library by Rob Tillaart.
 Thanks to Marco IU5HJU for the BME280 related function.
