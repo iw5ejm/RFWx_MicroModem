@@ -10,3 +10,6 @@ It uses the Simple Serial communication protocol by Mark.
 I built the system with two arduino nano: one for the controller and one for the modem.
 Mark realeased the code for the microAPRS modem, so you can either buy it or build it your self with an arduino nano AT328p.
 See schematic in repository.
+
+The controller has no need for real time clock: it uses Countdown library by Rob Tillaart.
+Thanks to Marco IU5HJU for the BME280 related function.
