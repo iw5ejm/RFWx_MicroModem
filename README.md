@@ -1,4 +1,9 @@
 # RFWx_MicroModem
+
+First version to use with external RTX. Here only for historical porpuse; see new PCB and software https://github.com/iw5ejm/RFWx
+
+
+
 APRS Weather packet sender for Simple Serial microAPRS modem by unsigned.io using bosh BME280 sensor
 
 All infos about microAPRS by Mark, OZ7TMD here: https://unsigned.io/projects/microaprs/
